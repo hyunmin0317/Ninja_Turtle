@@ -49,6 +49,16 @@
 
 ## [:turtle: 프로젝트 소개& 실행 영상](https://www.youtube.com/watch?v=DiTw3SzQFD4)
 
+>> **영상 타임스탬프**
+>> 
+>> + 도입부 및 목차       0:00
+>> + 주제 설명 및 필요성  0:16 
+>> + 구현 기능 설명       0:57
+>> + 기술 개발 전략       1:28
+>> + 프로젝트 계획        3:08
+>> + 실행 영상            3:15
+>> + 기대 효과 및 마무리  3:59 
+
 ## :turtle: 팀원
 
 > **최현민 [(hyunmin0317)](https://github.com/hyunmin0317?tab=repositories)**
