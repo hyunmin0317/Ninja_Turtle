@@ -47,7 +47,7 @@
 
 <br>
 
-## [## :turtle: 프로젝트 소개& 실행 영상](https://www.youtube.com/watch?v=DiTw3SzQFD4)
+## [:turtle: 프로젝트 소개& 실행 영상](https://www.youtube.com/watch?v=DiTw3SzQFD4)
 
 ## :turtle: 팀원
 
