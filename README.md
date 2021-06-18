@@ -1,4 +1,5 @@
 # Ninja Turtle
+
 ### 2021년 1학기 심층학습 팀 프로젝트 - 닌자거북이
 
 ---
@@ -18,6 +19,8 @@
 * ### [프로젝트 보고서](https://github.com/hyunmin0317/Ninja_Turtle/blob/master/Docs/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 
 * ### [프로젝트 최종 발표](https://www.youtube.com/watch?v=DiTw3SzQFD4)
+
+* ### [실행파일 다운로드](https://drive.google.com/file/d/1rKKkvpBn3wala4U5unC0vE7DNgDTbXJ8/view?usp=sharing)
 
 <br>
 
@@ -50,7 +53,7 @@
 ## [:turtle: 프로젝트 소개& 실행 영상](https://www.youtube.com/watch?v=DiTw3SzQFD4)
 
 >> **영상 타임스탬프**
->> 
+>
 >> + 도입부 및 목차       0:00
 >> + 주제 설명 및 필요성  0:16 
 >> + 구현 기능 설명       0:57
